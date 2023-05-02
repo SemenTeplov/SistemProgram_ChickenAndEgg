@@ -1,4 +1,4 @@
-# SistemProgram_ChickenAndEgg
+# SystemProgram_ChickenAndEgg
 
 Demonstration of the work Thread.
 
