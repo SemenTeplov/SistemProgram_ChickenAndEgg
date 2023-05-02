@@ -1,0 +1,30 @@
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.exe
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.deps.json
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.runtimeconfig.json
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.dll
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.pdb
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.csproj.AssemblyReference.cache
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.AssemblyInfoInputs.cache
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.AssemblyInfo.cs
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.dll
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\refint\DZ_Thread.dll
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.pdb
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.genruntimeconfig.cache
+C:\Users\Админ\source\repos\DZ_Thread\DZ_Thread\obj\Debug\net6.0\ref\DZ_Thread.dll
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.exe
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.deps.json
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.dll
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\bin\Debug\net6.0\DZ_Thread.pdb
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.dll
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\refint\DZ_Thread.dll
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.pdb
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\DZ_Thread.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Системное программирование\дз 1\DZ_Thread\DZ_Thread\obj\Debug\net6.0\ref\DZ_Thread.dll
